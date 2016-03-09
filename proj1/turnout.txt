@@ -1,0 +1,88 @@
+Player X's turn: "-1 7" is not on the board!
+
+Player X's turn: ----
+--X-
+----
+----
+
+Player O's turn: "2 3" has already been played!
+
+Player O's turn: ----
+--XO
+----
+----
+
+Player X's turn: ----
+--XO
+--X-
+----
+
+Player O's turn: ----
+--XO
+--X-
+--O-
+
+Player X's turn: ----
+-XXO
+--X-
+--O-
+
+Player O's turn: ----
+OOOO
+--X-
+--O-
+
+Player X's turn: --X-
+OOXO
+--X-
+--O-
+
+Player O's turn: --XO
+OOXO
+--X-
+--O-
+
+Player X's turn: -XXO
+OOXO
+--X-
+--O-
+
+Player O's turn: OOOO
+OOXO
+--X-
+--O-
+
+Player X's turn: OOOO
+OOXO
+--X-
+--OX
+
+Player O's turn: OOOO
+OOOO
+--O-
+-OOX
+
+Player X's turn: OOOO
+OOOO
+--O-
+XXXX
+
+Player O's turn: OOOO
+OOOO
+--OO
+XXXX
+
+Player X's turn: OOOO
+OOOO
+-XOO
+XXXX
+
+Player O's turn: OOOO
+OOOO
+OOOO
+XXXX
+
+The game is over
+Player X controls 4 squares.
+Player O controls 12 squares.
+Player O wins!
